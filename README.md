@@ -2,4 +2,4 @@
 - 👀 I’m interested in learn programing tools
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me here on GitHub
+- 📫 How to reach me: here on GitHub
